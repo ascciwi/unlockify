@@ -1,5 +1,7 @@
 ## Unlockify 0.1.1 — Major Update
 
+## https://ascciwi.github.io/unlockify/
+
 **Unlockify 0.1.1 introduces a large set of improvements and refinements focused on identity, polish, and user experience.**
 
 ### ✨ New Features
